@@ -6,8 +6,6 @@
   
   <div align="center">
   
-  ###### 
-
   </div>
 </div>
 
@@ -15,6 +13,11 @@
 
 <br/>
 
+## 👟 How To Run
+```shell
+make
+```
+구동 후 https://localhost 로 접속하면됩니다.
 
 ## 🗺️ Overview
 docker를 사용하여 여러 컨테이너를 구성하고, docker-compose를 통해 컨테이너들을 관리합니다.
